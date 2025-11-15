@@ -1,3 +1,5 @@
+Vídeo demostrativo: https://www.youtube.com/watch?v=mwtayRmbOXQ
+
 Visualización 3D de la evolución de los ríos de lava del volcán de La Palma
 
 Este proyecto implementa una visualización tridimensional, utilizando Three.js, de la evolución de los ríos de lava generados durante el proceso eruptivo del volcán de Cumbre Vieja (La Palma). El sistema reproduce el desarrollo temporal de los flujos de lava a lo largo de diez días, empleando datos geoespaciales y un mapa de elevación para ajustar de forma realista la geometría sobre el terreno.
